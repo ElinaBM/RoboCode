@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>EBM</RootNamespace>
+    <AssemblyName>ebm.Usinsh_0.1</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="robocode">
+      <HintPath>..\..\..\..\..\..\..\robocode\libs\robocode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
